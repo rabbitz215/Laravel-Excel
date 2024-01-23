@@ -15,6 +15,10 @@
     {
       "name": "Maatwebsite.nl",
       "email": "patrick@maatwebsite.nl"
+    },
+    {
+      "name": "Galang Putra",
+      "email": "galang@luxodev.com"
     }
   ],
   "require": {
